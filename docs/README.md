@@ -1,4 +1,4 @@
-📢 Use this project, [contribute](https://github.com/vtex-apps/store-image) to it or open issues to help evolve it using [Store Discussion](https://github.com/vtex-apps/store-discussion).
+📢 Use this project, [contribute](https://github.com/vtex-apps/schedule-image) to it or open issues to help evolve it using [Store Discussion](https://github.com/vtex-apps/store-discussion).
 
 # Store Image
 
@@ -10,15 +10,15 @@
 
 The Store Image app exports the `list-context.image-list` block, which is responsible for the image content in the store theme.
 
-![store-image](https://cdn.jsdelivr.net/gh/vtexdocs/dev-portal-content@main/images/vtex-store-image-0.png)
+![schedule-image](https://cdn.jsdelivr.net/gh/vtexdocs/dev-portal-content@main/images/vtex-schedule-image-0.png)
 
 ## Configurating the store image
 
-1. Add the `store-image` app to your theme dependencies in the `manifest.json`. For example:
+1. Add the `schedule-image` app to your theme dependencies in the `manifest.json`. For example:
 
 ```diff
  "dependencies ": {
-+  "vtex.store-image": "0.x"
++  "vtex.schedule-image": "0.x"
  }
 ```
 

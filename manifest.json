@@ -1,7 +1,7 @@
 {
-  "vendor": "vtex",
-  "name": "store-image",
-  "version": "0.20.0",
+  "vendor": "obahortifruti",
+  "name": "schedule-image",
+  "version": "0.0.1",
   "title": "VTEX Image",
   "description": "Set of VTEX components to handle images",
   "builders": {

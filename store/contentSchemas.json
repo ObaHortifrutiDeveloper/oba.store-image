@@ -1,7 +1,7 @@
 {
   "definitions": {
     "Image": {
-      "title": "admin/editor.store-image.title",
+      "title": "admin/editor.schedule-image.title",
       "properties": {
         "src": {
           "title": "admin/editor.image.src.title",
@@ -27,11 +27,11 @@
           "default": ""
         },
         "loading": {
-          "title": "admin/editor.store-image.loading.title",
+          "title": "admin/editor.schedule-image.loading.title",
           "enum": ["eager", "lazy"],
           "enumNames": [
-            "admin/editor.store-image.loading.eager",
-            "admin/editor.store-image.loading.lazy"
+            "admin/editor.schedule-image.loading.eager",
+            "admin/editor.schedule-image.loading.lazy"
           ],
           "widget": {
             "ui:widget": "radio"
@@ -141,11 +141,11 @@
             "default": "100%"
           },
           "loading": {
-            "title": "admin/editor.store-image.loading.title",
+            "title": "admin/editor.schedule-image.loading.title",
             "enum": ["eager", "lazy"],
             "enumNames": [
-              "admin/editor.store-image.loading.eager",
-              "admin/editor.store-image.loading.lazy"
+              "admin/editor.schedule-image.loading.eager",
+              "admin/editor.schedule-image.loading.lazy"
             ],
             "widget": {
               "ui:widget": "radio"
