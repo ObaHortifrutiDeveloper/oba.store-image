@@ -117,6 +117,14 @@ const messages = defineMessages({
     id: 'admin/editor.image-list.images.description.title',
     defaultMessage: '',
   },
+  initialDatetime: {
+    id: 'admin/editor.image-list.images.datetime.initial',
+    defaultMessage: '',
+  },
+  finishDatetime: {
+    id: 'admin/editor.image-list.images.datetime.finish',
+    defaultMessage: '',
+  },
   imagesImageAttributeTitle: {
     id: 'admin/editor.image-list.images.title.title',
     defaultMessage: '',

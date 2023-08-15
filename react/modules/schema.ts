@@ -41,6 +41,12 @@ const IMAGE_LIST_MESSAGES = defineMessages({
   widthDescription: {
     id: 'admin/editor.image-list.images.width.description',
   },
+  initialDatetime: {
+    id: 'admin/editor.image-list.images.datetime.initial',
+  },
+  finishDatetime: {
+    id: 'admin/editor.image-list.images.datetime.finish',
+  },
   analyticsTitle: {
     id: 'admin/editor.image.analytics.title',
   },

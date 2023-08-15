@@ -13,6 +13,8 @@
   "admin/editor.image-list.images.image.title": "Imagem",
   "admin/editor.image-list.images.mobileImage.title": "Imagem para dispositivos móveis",
   "admin/editor.image-list.images.description.title": "Descrição alternativa para a imagem",
+  "admin/editor.image-list.images.datetime.initial": "Data de início da exibição",
+  "admin/editor.image-list.images.datetime.finish": "Data de encerramento da exibição",
   "admin/editor.image-list.images.title.title": "Título da imagem",
   "admin/editor.image-list.images.link.url.title": "URL do link da imagem",
   "admin/editor.image-list.images.link.openNewTab.title": "Abrir em uma nova aba",

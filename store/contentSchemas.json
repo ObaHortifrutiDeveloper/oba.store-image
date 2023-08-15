@@ -119,6 +119,18 @@
               "ui:widget": "image-uploader"
             }
           },
+          "initialDatetime": {
+            "title": "admin/editor.image-list.images.datetime.initial",
+            "type": "string",
+            "format": "date-time",
+            "default": ""
+          },
+          "finishDatetime": {
+            "title": "admin/editor.image-list.images.datetime.finish",
+            "type": "string",
+            "format": "date-time",
+            "default": ""
+          },
           "description": {
             "$ref": "app:vtex.native-types#/definitions/text",
             "default": "",

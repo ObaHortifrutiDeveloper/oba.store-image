@@ -2,7 +2,7 @@
   "image-new": {
     "component": "Image",
     "content": {
-      "$ref": "app:vtex.schedule-image#/definitions/Image"
+      "$ref": "app:obahortifruti.schedule-image#/definitions/Image"
     }
   },
   "image-slider": {
@@ -10,7 +10,7 @@
     "content": {
       "properties": {
         "images": {
-          "$ref": "app:vtex.schedule-image#/definitions/Images"
+          "$ref": "app:obahortifruti.schedule-image#/definitions/Images"
         }
       }
     }
@@ -20,7 +20,7 @@
     "content": {
       "properties": {
         "images": {
-          "$ref": "app:vtex.schedule-image#/definitions/Images"
+          "$ref": "app:obahortifruti.schedule-image#/definitions/Images"
         }
       }
     }
@@ -32,7 +32,7 @@
     "content": {
       "properties": {
         "images": {
-          "$ref": "app:vtex.schedule-image#/definitions/Images"
+          "$ref": "app:obahortifruti.schedule-image#/definitions/Images"
         }
       }
     }

@@ -18,7 +18,7 @@ The Store Image app exports the `list-context.image-list` block, which is respon
 
 ```diff
  "dependencies ": {
-+  "vtex.schedule-image": "0.x"
++  "obahortifruti.schedule-image": "0.x"
  }
 ```
 
@@ -63,11 +63,11 @@ Note that the `slider-layout` block exported from the Slider Layout app is a chi
 
 ### `list-context.image-list` props
 
-| Prop name | Type      | Description                                                                           | Default value |
-| --------- | --------- | ------------------------------------------------------------------------------------- | ------------- |
-| `images`  | `array`   | Array of objects declaring all the images to be rendered.                             | `undefined`   |
-| `height`  | `number`  | Image height for all images declared in the `image` object (in `px`).                 | `undefined`   |
-| `preload` | `boolean` | Preloads the first image in a list, prioritizing the image display over other assets. | `false`       |
+| Prop name                           | Type      | Description                                                                                                           | Default value |
+| ----------------------------------- | --------- | --------------------------------------------------------------------------------------------------------------------- | ------------- |
+| `images`                            | `array`   | Array of objects declaring all the images to be rendered.                                                             | `undefined`   |
+| `height`                            | `number`  | Image height for all images declared in the `image` object (in `px`).                                                 | `undefined`   |
+| `preload`                           | `boolean` | Preloads the first image in a list, prioritizing the image display over other assets.                                 | `false`       |
 | `experimentalSetExplicitDimensions` | `boolean` | Sets explicit `width` and/or `height` attributes for an image, if `width` and/or `height` props are provided in `px`. |
 
 ### `image-list` props
@@ -80,7 +80,7 @@ Note that the `slider-layout` block exported from the Slider Layout app is a chi
 - **`images` array:**
 
 | Prop name              | Type                | Description                                                                                        | Default value |
-|------------------------|---------------------|----------------------------------------------------------------------------------------------------|---------------|
+| ---------------------- | ------------------- | -------------------------------------------------------------------------------------------------- | ------------- |
 | `image`                | `string`            | Image URL.                                                                                         | `undefined`   |
 | `mobileImage`          | `string`            | Mobile image URL.                                                                                  | `undefined`   |
 | `description`          | `string`            | Image description.                                                                                 | `undefined`   |

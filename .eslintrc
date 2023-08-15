@@ -18,5 +18,11 @@
 
     // Desativa a regra "click-events-have-key-events"
     "click-events-have-key-events": "off"
-  }
+  },
+  "prettier/prettier": [
+    "error",
+    {
+      "endOfLine": "auto"
+    }
+  ]
 }

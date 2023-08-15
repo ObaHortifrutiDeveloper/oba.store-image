@@ -237,7 +237,7 @@ function Image(props: ImageProps) {
 
 const messages = defineMessages({
   title: {
-    id: 'admin/editor.schedule-image.title',
+    id: 'admin/editor.store-image.title',
   },
 })
 
